@@ -1,5 +1,7 @@
 
 
+
+
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -16,7 +18,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: isaac545454
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
