@@ -1,3 +1,8 @@
+ 
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+  ![Snake animation](https://github.com/isaac545454/isaac545454/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
   <div style="display: inline-block"  align="center"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,8 +27,8 @@
  
 
 
- ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
- ![Snake animation](https://github.com/isaac545454/isaac545454/blob/output/github-contribution-grid-snake.svg)
+
+
 
  <div style="">
     
