@@ -1,4 +1,4 @@
- 
+ ![](https://github-profile-trophy.vercel.app/?username=isaac&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
