@@ -4,7 +4,8 @@
   <br />
 
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
+  ![Snake animation](https://github.com/isaac545454/isaac545454/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <div align="center">
@@ -25,7 +26,6 @@
 
  
 
-![Snake animation](https://github.com/isaac545454/isaac545454/blob/output/github-contribution-grid-snake.svg)
 
 
 
