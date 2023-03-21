@@ -3,10 +3,7 @@
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
     
   ![Snake animation](https://github.com/isaac545454/isaac545454/blob/output/github-contribution-grid-snake.svg)
-    <div align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  <br />
+ 
 
 
 
@@ -26,17 +23,20 @@
 <img src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" />
 <img src="https://camo.githubusercontent.com/fd75ec52ca1707ab6cc176248dd53e0002d4bbc528e964612fe434f8bf9e3ec4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3339383243453f7374796c653d666f722d7468652d6261646765266c6f676f3d507269736d61266c6f676f436f6c6f723d7768697465" />
 </div>
+  <br />
+ <div align="center" >
+<img src="https://github-profile-trophy.vercel.app/?username=isaac545454&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  <br />
 
- 
 
 
 
-
- <div style="">
+<!--  <div style="">
     
    <div align='center'>
 <a height="150em" href="http://www.github.com/isaac545454">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac545454&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
  
- </div>
+ </div> -->
