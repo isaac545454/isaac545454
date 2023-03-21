@@ -1,4 +1,4 @@
- ![](https://github-profile-trophy.vercel.app/?username=isaac545454&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
@@ -22,7 +22,7 @@
 ![Snake animation](https://github.com/isaac545454/isaac545454/blob/output/github-contribution-grid-snake.svg)
 
 
-
+ ![](https://github-profile-trophy.vercel.app/?username=isaac545454&theme=monokai&no-frame=false&no-bg=true&margin-w=3)
  <div style="">
     
    <div align='center'>
